@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**agusbarrionuevo2/agusbarrionuevo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I ?
 
-Here are some ideas to get you started:
+I am a Full Stack Developer from Argentina named Agustin Barrionuevo.
+I am currently interested on the tech industry!
+I've always been interested in technology and the language that introduced me to programming was JavaScript and since then I've been learning non-stop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:boom Technologies I currently use: 
+- Javascript
+- React.js
+- Node.js
+- Express.js
+- Redux
+- PostgreSQL
+- Sequelize
+
+
+Contact me: 
