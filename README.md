@@ -17,6 +17,10 @@ I've always been interested in technology and the language that introduced me to
 - Redux
 - PostgreSQL
 - Sequelize
+- Docker
+- MongoDB
+- Mongoose
+- Google CLoud
 
 
 📫Contact me at agubarrionuevo@gmail.com or through my [🔗LinkedIn](https://www.linkedin.com/in/agustin-barrionuevo-a7a25b238/).
